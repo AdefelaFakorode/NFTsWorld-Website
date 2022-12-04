@@ -1,0 +1,70 @@
+.idk{
+    margin-left: 75px;
+    margin-right: auto;
+}
+
+.idktop{
+    margin-left: 00px;
+}
+
+.pop{
+    background-color: white;
+}
+
+.card{
+    border: none;
+    margin-right: 20.4px;
+    background-color: white;
+}
+
+.card-img-top {
+    width: 105%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.btn{
+    align-items: center;
+}
+
+
+.thecolor{
+    background-color: #111d2b;
+}
+
+.hero {
+    background-image:url(pfps/COOLCATS!.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+.navbar{
+    text-decoration-color: white;
+}
+
+.min-vh-75 {
+    min-height: 75vh !important;
+    
+}
+
+
+.heading-1 {
+    font-size:15px;
+    font-weight: 500;
+}
+
+.heading-2 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.heading-3 {
+    font-size:15px;
+    font-weight: 100;
+}
+
+.heading-4 {
+    font-size:15px;
+    font-weight: 100;
+}

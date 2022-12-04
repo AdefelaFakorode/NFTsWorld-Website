@@ -1,0 +1,62 @@
+.idk{
+    margin-left: 75px;
+    margin-right: auto;
+}
+
+.idktop{
+    margin-left: 00px;
+}
+
+.pop{
+    background-color: white;
+}
+
+.card{
+    border: none;
+    margin-right: 20.4px;
+    background-color: white;
+}
+
+.card-img-top {
+    width: 105%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.btn{
+    align-items: center;
+}
+
+.navbar{
+    text-decoration-color: white;
+}
+
+.h6{
+    font-size: large;
+}
+
+
+.min-vh-75 {
+    min-height: 75vh !important;
+    
+}
+
+
+.heading-2 {
+    font-size: 35px;
+    font-weight: 600;
+}
+
+
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #000000;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 6px;
+  }
